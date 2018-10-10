@@ -13,3 +13,4 @@ usb_cam is released with a BSD license. For full terms and conditions, see the [
 
 ### Authors
 See the [AUTHORS](AUTHORS.md) file for a full list of contributors.
+### 其中还有一个build包，但是因为里面的内容过多不能发送，下次将会补充
